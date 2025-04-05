@@ -40,7 +40,7 @@
 
 1. 克隆仓库
 ```
-git clone https://github.com/yourusername/disk-toolbox.git
+git clone https://github.com/1351055318/yingpan-tool-test1.git
 cd disk-toolbox
 ```
 
@@ -105,9 +105,14 @@ cmake --build . --config Release
 
 如有任何问题或建议，请通过以下方式联系:
 
-- 邮箱: your.email@example.com
-- GitHub: [https://github.com/yourusername](https://github.com/yourusername)
+- 邮箱: 1351055318@qq.com
+- GitHub: (https://github.com/1351055318)
 
 ## 截图
 
-(项目截图将放在这里) 
+![image](https://github.com/user-attachments/assets/3bd4396a-8242-4805-bbbf-47f4ccc6762e)
+![image](https://github.com/user-attachments/assets/52de283e-d8c6-465f-9b37-59cff1be072c)
+![1743847134578](https://github.com/user-attachments/assets/c2d75ebe-6d4d-44fb-935a-ac4e5ea5525d)
+
+
+
