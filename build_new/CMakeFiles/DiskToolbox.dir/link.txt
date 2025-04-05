@@ -1,0 +1,3 @@
+D:\CMake\bin\cmake.exe -E rm -f CMakeFiles\DiskToolbox.dir/objects.a
+D:\qt\Tools\mingw810_64\bin\ar.exe qc CMakeFiles\DiskToolbox.dir/objects.a @CMakeFiles\DiskToolbox.dir\objects1.rsp
+D:\Qt\Tools\mingw810_64\bin\g++.exe -O3 -DNDEBUG -Wl,--whole-archive CMakeFiles\DiskToolbox.dir/objects.a -Wl,--no-whole-archive -o DiskToolbox.exe -Wl,--out-implib,libDiskToolbox.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\DiskToolbox.dir\linkLibs.rsp

@@ -1,0 +1,33 @@
+{
+	"BUILD_DIR" : "D:/trae_project/test31/build/DiskToolbox_autogen",
+	"CMAKE_BINARY_DIR" : "D:/trae_project/test31/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "D:/trae_project/test31/build",
+	"CMAKE_CURRENT_SOURCE_DIR" : "D:/trae_project/test31",
+	"CMAKE_SOURCE_DIR" : "D:/trae_project/test31",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "MinGW Makefiles",
+	"INCLUDE_DIR" : "D:/trae_project/test31/build/DiskToolbox_autogen/include",
+	"INPUTS" : 
+	[
+		"D:/trae_project/test31/resources/images/splash.png",
+		"D:/trae_project/test31/resources/styles/dark.qss",
+		"D:/trae_project/test31/resources/styles/light.qss",
+		"D:/trae_project/test31/resources/icons/app.png",
+		"D:/trae_project/test31/resources/icons/dashboard.png",
+		"D:/trae_project/test31/resources/icons/space.png",
+		"D:/trae_project/test31/resources/icons/smart.png",
+		"D:/trae_project/test31/resources/icons/speed.png",
+		"D:/trae_project/test31/resources/icons/disk.png"
+	],
+	"LOCK_FILE" : "D:/trae_project/test31/build/CMakeFiles/DiskToolbox_autogen.dir/AutoRcc_resources_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "resources" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_resources.cpp",
+	"RCC_EXECUTABLE" : "D:/qt/5.15.2/mingw81_64/bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "D:/trae_project/test31/build/CMakeFiles/DiskToolbox_autogen.dir/AutoRcc_resources_EWIEGA46WW_Used.txt",
+	"SOURCE" : "D:/trae_project/test31/resources.qrc",
+	"USE_BETTER_GRAPH" : false,
+	"VERBOSITY" : 0
+}

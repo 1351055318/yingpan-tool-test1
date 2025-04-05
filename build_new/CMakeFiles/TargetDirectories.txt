@@ -1,0 +1,9 @@
+D:/trae_project/test31/build_new/CMakeFiles/DiskToolbox.dir
+D:/trae_project/test31/build_new/CMakeFiles/edit_cache.dir
+D:/trae_project/test31/build_new/CMakeFiles/rebuild_cache.dir
+D:/trae_project/test31/build_new/CMakeFiles/list_install_components.dir
+D:/trae_project/test31/build_new/CMakeFiles/install.dir
+D:/trae_project/test31/build_new/CMakeFiles/install/local.dir
+D:/trae_project/test31/build_new/CMakeFiles/install/strip.dir
+D:/trae_project/test31/build_new/CMakeFiles/DiskToolbox_autogen_timestamp_deps.dir
+D:/trae_project/test31/build_new/CMakeFiles/DiskToolbox_autogen.dir

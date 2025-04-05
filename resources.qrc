@@ -1,0 +1,14 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="/">
+        <file>resources/styles/dark.qss</file>
+        <file>resources/styles/light.qss</file>
+        <file>resources/icons/app.png</file>
+        <file>resources/icons/dashboard.png</file>
+        <file>resources/icons/disk.png</file>
+        <file>resources/icons/smart.png</file>
+        <file>resources/icons/speed.png</file>
+        <file>resources/icons/space.png</file>
+        <file>resources/images/splash.png</file>
+    </qresource>
+</RCC> 

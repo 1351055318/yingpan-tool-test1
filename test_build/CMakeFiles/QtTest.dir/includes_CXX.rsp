@@ -1,0 +1,1 @@
+-ID:/trae_project/test31/test_build/QtTest_autogen/include -isystem D:/qt/5.15.2/mingw81_64/include -isystem D:/qt/5.15.2/mingw81_64/include/QtWidgets -isystem D:/qt/5.15.2/mingw81_64/include/QtGui -isystem D:/qt/5.15.2/mingw81_64/include/QtANGLE -isystem D:/qt/5.15.2/mingw81_64/include/QtCore -isystem "D:/qt/5.15.2/mingw81_64/./mkspecs/win32-g++"

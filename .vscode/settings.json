@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "*.tcc": "cpp",
+        "string": "cpp",
+        "optional": "cpp",
+        "system_error": "cpp",
+        "typeinfo": "cpp",
+        "string_view": "cpp",
+        "array": "cpp"
+    }
+}

@@ -1,0 +1,3 @@
+D:\CMake\bin\cmake.exe -E rm -f CMakeFiles\QtTest.dir/objects.a
+D:\qt\Tools\mingw810_64\bin\ar.exe qc CMakeFiles\QtTest.dir/objects.a @CMakeFiles\QtTest.dir\objects1.rsp
+D:\Qt\Tools\mingw810_64\bin\g++.exe -O3 -DNDEBUG -Wl,--whole-archive CMakeFiles\QtTest.dir/objects.a -Wl,--no-whole-archive -o QtTest.exe -Wl,--out-implib,libQtTest.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\QtTest.dir\linkLibs.rsp

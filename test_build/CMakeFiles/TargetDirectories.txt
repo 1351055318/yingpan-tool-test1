@@ -1,0 +1,5 @@
+D:/trae_project/test31/test_build/CMakeFiles/QtTest.dir
+D:/trae_project/test31/test_build/CMakeFiles/edit_cache.dir
+D:/trae_project/test31/test_build/CMakeFiles/rebuild_cache.dir
+D:/trae_project/test31/test_build/CMakeFiles/QtTest_autogen_timestamp_deps.dir
+D:/trae_project/test31/test_build/CMakeFiles/QtTest_autogen.dir
